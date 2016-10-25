@@ -1,7 +1,6 @@
 <%-- 
     Document   : login
-    Created on : Dec 15, 2008, 4:03:55 AM
-    Author     : eswar@vaannila.com
+   
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
