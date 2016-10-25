@@ -1,8 +1,4 @@
-<%-- 
-    Document   : success
-    Created on : Dec 15, 2008, 4:08:53 AM
-    Author     : eswar@vaannila.com
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@taglib uri="/WEB-INF/struts-bean.tld" prefix="bean" %>
